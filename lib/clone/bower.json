@@ -1,0 +1,21 @@
+{
+  "name": "Front End dependencies",
+  "main": "server.js",
+  "license": "none",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "requirejs-text": "~2.0.12",
+    "requirejs": "~2.1.14",
+    "jquery": "~2.1.1",
+    "modernizr": "~2.8.2",
+    "medium-editor": "~1.8.14"
+  }
+}
