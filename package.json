@@ -1,0 +1,29 @@
+{
+  "name": "mvc-make",
+  "version": "0.1.0",
+  "description": "Make an express MVC application with restful generators.",
+  "main": "server.js",
+  "dependencies": {
+    "commander": "^2.3.0",
+    "colors": "^0.6.2",
+    "shelljs": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "generators",
+    "mvc",
+    "restful",
+    "rest",
+    "api"
+  ],
+  "author": "Seth J Krasnianski",
+  "license": "MIT",
+  "preferGlobal": "true",
+  "bin": {
+    "mvcmake": "lib/mvc-make.js"
+  }
+}
