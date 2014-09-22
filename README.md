@@ -1,0 +1,1 @@
+`mvcmake new project-name`
